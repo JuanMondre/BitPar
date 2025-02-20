@@ -184,8 +184,8 @@ img {
 
 .header_section {
     width: 100%;
-    float: left;
-    background-image: url(../images/bannerlargo.png);
+    float: right;
+    background-image: url(../images/banner-bg.png);
     height: auto;
     background-size: cover;
     padding-bottom: 90px;
@@ -230,7 +230,8 @@ img {
 
 .logo {
     width: 70%;
-    float: left;
+    float: right;
+    text-align: right;
 }
 
 .banner_taital {
